@@ -1,5 +1,5 @@
 import java.util.*;
-public class Main{
+public class MinimumNum{
     public static void main(String args[])
     {
         int a[]={4,6,2,3,8,9};
